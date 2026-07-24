@@ -1,16 +1,19 @@
-## Hi there 👋
+# Race Nevils
 
-<!--
-**race-nevils/race-nevils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI engineer and founder of EdgeFlow AI, where I build agentic harnesses,
+data pipelines, and computer vision systems for construction blueprint takeoffs.
 
-Here are some ideas to get you started:
+I came to software from six years of industrial electrical and controls work
+(SCADA commissioning, instrumentation, refinery I&E). That background taught me
+to respect running systems, verify before trusting, and design for the person
+who maintains the thing after me. I write software the same way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently building:**
+- A YOLO-based symbol detector trained on synthetic data for construction blueprints
+- A knowledge-graph pipeline that structures messy public procurement data
+- A model-agnostic agentic runtime with a self-hosted control dashboard
+
+**Stack:** Python, LLM APIs and agent tooling, computer vision (YOLO), knowledge
+graphs (JSON-LD, RDF, SPARQL), SQLite, web frontends in plain JS, Git.
+
+[LinkedIn](https://linkedin.com/in/race-nevils) · race.nevils@edgeflowai.com
