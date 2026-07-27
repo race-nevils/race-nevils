@@ -1,15 +1,21 @@
 # Race Nevils
 
-Founder of EdgeFlow AI. I build systems end to end, from raw messy input
-through to the interface that makes it useful, and I care most about the part
-most builds skip: proving the thing actually works.
+I build full pipelines that take messy input and turn it into a verified answer.
 
-**Currently building:**
-- A YOLO-based symbol detector trained on synthetic data for construction blueprints
-- A knowledge-graph pipeline that structures messy public procurement data
-- A model-agnostic agentic runtime with a self-hosted control dashboard
+```mermaid
+flowchart LR
+    A[Messy real-world input<br/>documents · drawings · records] --> B[Structured data<br/>JSON-LD · RDF · SQLite]
+    B --> C[Runtime<br/>agents · CV models · query engines]
+    C --> D[Interface<br/>self-hosted dashboards]
+    V[Verification gates] -.-> B & C & D
+```
 
-**Stack:** Python, LLM APIs and agent tooling, computer vision (YOLO), knowledge
-graphs (JSON-LD, RDF, SPARQL), SQLite, web frontends in plain JS, Git.
+## Currently building
 
-[LinkedIn](https://linkedin.com/in/race-nevils) · race.nevils@edgeflowai.com
+- A symbol detector for construction blueprints, trained on synthetic data generated from measurements of the real drawings rather than drawn by eye.
+- A pipeline that turns public procurement records into queryable linked data, where every node carries a provenance trail back to its source document.
+- A model-agnostic agentic runtime with a self-hosted control plane, so I can watch any job while it runs.
+
+**Stack:** Python, linked data (JSON-LD, RDF, SPARQL), LLM tooling, YOLO, SQLite, plain-JS frontends
+
+[LinkedIn](https://linkedin.com/in/race-nevils)
