@@ -4,10 +4,9 @@ I build full pipelines that take messy input and turn it into a verified answer.
 
 ```mermaid
 flowchart LR
-    A[Messy real-world input<br/>documents · drawings · records] --> B[Structured data<br/>JSON-LD · RDF · SQLite]
-    B --> C[Runtime<br/>agents · CV models · query engines]
-    C --> D[Interface<br/>self-hosted dashboards]
-    V[Verification gates] -.-> B & C & D
+    A[Messy input<br/>documents · drawings · records] -->|verify| B[Structured data<br/>JSON-LD · RDF · SQLite]
+    B -->|verify| C[Runtime<br/>agents · CV · queries]
+    C -->|verify| D[Self-hosted interface]
 ```
 
 ## Currently building
