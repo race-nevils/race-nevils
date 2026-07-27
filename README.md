@@ -1,12 +1,8 @@
 # Race Nevils
 
-AI engineer and founder of EdgeFlow AI, where I build agentic harnesses,
-data pipelines, and computer vision systems for construction blueprint takeoffs.
-
-I came to software from six years of industrial electrical and controls work
-(SCADA commissioning, instrumentation, refinery I&E). That background taught me
-to respect running systems, verify before trusting, and design for the person
-who maintains the thing after me. I write software the same way.
+Founder of EdgeFlow AI. I build systems end to end, from raw messy input
+through to the interface that makes it useful, and I care most about the part
+most builds skip: proving the thing actually works.
 
 **Currently building:**
 - A YOLO-based symbol detector trained on synthetic data for construction blueprints
