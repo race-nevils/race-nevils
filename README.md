@@ -39,4 +39,5 @@ The rest of my work lives outside these repos, most of it under my company, Edge
 ---
 
 Open to work in: software and tech-adjacent roles  
-Email: race.nevils@edgeflowai.com
+Email: race.nevils@edgeflowai.com  
+LinkedIn: [linkedin.com/in/race-nevils](https://linkedin.com/in/race-nevils)
