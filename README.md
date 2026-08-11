@@ -12,14 +12,6 @@ Your agent renders the UI change as ephemeral HTML in your own design system. An
 
 JavaScript · CSS · Python · MIT
 
-### [iHIM](https://github.com/race-nevils/ihim)
-
-A personal app platform and control plane for local tooling.
-
-![iHIM demo](assets/ihim-demo.gif)
-
-Python · JavaScript · CSS · MIT
-
 ### [docket](https://github.com/race-nevils/docket)
 
 The keyboard-first, human-in-the-loop bench for computer vision ML work.
@@ -27,6 +19,14 @@ The keyboard-first, human-in-the-loop bench for computer vision ML work.
 ![docket demo](assets/docket-demo.gif)
 
 Python · MIT
+
+### [iHIM](https://github.com/race-nevils/ihim)
+
+A personal app platform and control plane for local tooling.
+
+![iHIM demo](assets/ihim-demo.gif)
+
+Python · JavaScript · CSS · MIT
 
 ## Beyond The Repos
 
