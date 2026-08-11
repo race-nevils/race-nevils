@@ -28,7 +28,7 @@ The keyboard-first, human-in-the-loop bench for computer vision ML work.
 
 Python · MIT
 
-## Beyond the repos
+## Beyond The Repos
 
 The rest of my work lives outside these repos, most of it under my company, EdgeFlow AI.
 
