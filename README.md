@@ -8,25 +8,25 @@ Current focus: Strengthening my foundations by learning C.
 
 Your agent renders the UI change as ephemeral HTML in your own design system. Annotate your changes, compare the cuts, drag what's misplaced, hit send, and it rebuilds.
 
-![brille demo](assets/brille-demo.gif)
+[![brille demo](https://raw.githubusercontent.com/race-nevils/brille/main/docs/demo.gif)](https://github.com/race-nevils/brille)
 
-<img src="assets/lang-javascript.png" width="12" height="12" alt=""> JavaScript · <img src="assets/lang-css.png" width="12" height="12" alt=""> CSS · <img src="assets/lang-python.png" width="12" height="12" alt=""> Python · <img src="assets/lang-html.png" width="12" height="12" alt=""> HTML
+JavaScript · CSS · Python
 
 ### [docket](https://github.com/race-nevils/docket)
 
 The keyboard-first, human-in-the-loop bench for computer vision ML work.
 
-![docket demo](assets/docket-demo.gif)
+[![docket demo](https://raw.githubusercontent.com/race-nevils/docket/main/docs/demo.gif)](https://github.com/race-nevils/docket)
 
-<img src="assets/lang-python.png" width="12" height="12" alt=""> Python
+Python
 
 ### [iHIM](https://github.com/race-nevils/ihim)
 
 A personal app platform and control plane for local tooling.
 
-![iHIM demo](assets/ihim-demo.gif)
+[![iHIM demo](https://raw.githubusercontent.com/race-nevils/ihim/main/docs/demo.gif)](https://github.com/race-nevils/ihim)
 
-<img src="assets/lang-python.png" width="12" height="12" alt=""> Python · <img src="assets/lang-javascript.png" width="12" height="12" alt=""> JavaScript · <img src="assets/lang-css.png" width="12" height="12" alt=""> CSS
+Python · JavaScript · CSS
 
 ## Beyond The Repos
 
