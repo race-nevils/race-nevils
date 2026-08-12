@@ -10,7 +10,7 @@ Your agent renders the UI change as ephemeral HTML in your own design system. An
 
 ![brille demo](assets/brille-demo.gif)
 
-JavaScript · CSS · Python
+<img src="assets/lang-javascript.png" width="12" height="12" alt=""> JavaScript · <img src="assets/lang-css.png" width="12" height="12" alt=""> CSS · <img src="assets/lang-python.png" width="12" height="12" alt=""> Python · <img src="assets/lang-html.png" width="12" height="12" alt=""> HTML
 
 ### [docket](https://github.com/race-nevils/docket)
 
@@ -18,7 +18,7 @@ The keyboard-first, human-in-the-loop bench for computer vision ML work.
 
 ![docket demo](assets/docket-demo.gif)
 
-Python
+<img src="assets/lang-python.png" width="12" height="12" alt=""> Python
 
 ### [iHIM](https://github.com/race-nevils/ihim)
 
@@ -26,7 +26,7 @@ A personal app platform and control plane for local tooling.
 
 ![iHIM demo](assets/ihim-demo.gif)
 
-Python · JavaScript · CSS
+<img src="assets/lang-python.png" width="12" height="12" alt=""> Python · <img src="assets/lang-javascript.png" width="12" height="12" alt=""> JavaScript · <img src="assets/lang-css.png" width="12" height="12" alt=""> CSS
 
 ## Beyond The Repos
 
