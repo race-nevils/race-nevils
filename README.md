@@ -36,7 +36,6 @@ The rest of my work lives outside these repos, most of it under my company, Edge
 - I am building a proprietary computer vision model end to end: dataset design, synthetic data generation, training, and evaluation.
 - RDF knowledge graphs in JSON-LD with a SKOS taxonomy and my own query engine on top. Plain-English questions compile to graph walks on Oxigraph (SPARQL) and Cayley (Gizmo).
 - A model-agnostic agentic harness with a self-hosted control-plane dashboard to run the system.
-- I deployed the company site and its graph viewer as Cloudflare Workers running at the edge.
 
 ---
 
