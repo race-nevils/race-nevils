@@ -2,7 +2,7 @@
 
 I build tools that solve the problems in front of me and make my workflow more efficient.
 
-Current focus: Strengthening my foundations by learning C.
+Current focus: Learning to query data with SQL.
 
 ### [brille](https://github.com/race-nevils/brille)
 
